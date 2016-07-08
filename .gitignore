@@ -2,10 +2,11 @@
 *
 
 # But not these files...
-!public
 !.gitignore
 !package.json
 !server.js
+!public
+!placeholder.html
 # etc...
 
 # ...even if they are in subdirectories
