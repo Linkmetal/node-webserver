@@ -1,12 +1,12 @@
 # Ignore everything
 *
+node_modules/**/package.json
 
 # But not these files...
 !.gitignore
-!package.json
 !server.js
 !public
-!placeholder.html
+!index.html
 # etc...
 
 # ...even if they are in subdirectories
